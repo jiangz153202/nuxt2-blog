@@ -8,7 +8,7 @@
 </template>
 
 <script>
-import outerwilds from '~/assets/image/outerwilds.jpg'
+import outerwilds from '~/assets/image/outerwilds1.jpg'
 
 export default {
   name: "index",
